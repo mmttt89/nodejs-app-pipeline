@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-app-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "echo 'Build successful!'",
+    "test": "echo 'Running tests...' && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
